@@ -2,7 +2,6 @@ package mate.academy;
 
 import java.util.concurrent.Semaphore;
 
-
 public class TicketBookingSystem {
     private final Semaphore semaphore;
 
